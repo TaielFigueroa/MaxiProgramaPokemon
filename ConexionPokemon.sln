@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConexionPokemon", "ConexionPokemon\ConexionPokemon.csproj", "{38670561-E557-41D8-B319-D0A4B9EC3ADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{18B24FCF-9EB0-452A-B0AA-80BA309CB1DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{8A51EDA8-2C9B-4FD7-8E3B-95B4783CB726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38670561-E557-41D8-B319-D0A4B9EC3ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38670561-E557-41D8-B319-D0A4B9EC3ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38670561-E557-41D8-B319-D0A4B9EC3ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38670561-E557-41D8-B319-D0A4B9EC3ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B24FCF-9EB0-452A-B0AA-80BA309CB1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B24FCF-9EB0-452A-B0AA-80BA309CB1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B24FCF-9EB0-452A-B0AA-80BA309CB1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B24FCF-9EB0-452A-B0AA-80BA309CB1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A51EDA8-2C9B-4FD7-8E3B-95B4783CB726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A51EDA8-2C9B-4FD7-8E3B-95B4783CB726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A51EDA8-2C9B-4FD7-8E3B-95B4783CB726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A51EDA8-2C9B-4FD7-8E3B-95B4783CB726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06388879-4BD1-4D18-AC77-B5809B2E1A25}
+	EndGlobalSection
+EndGlobal
